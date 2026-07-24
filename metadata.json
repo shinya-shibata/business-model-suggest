@@ -1,0 +1,6 @@
+{
+  "name": "ゼロ資本・個人起業ビジネスモデル提案AI",
+  "description": "Baden-Fuller(2010)、St. Gallen 4D(Gassmann)、Timmers(1998)の3大ビジネスモデル理論に基づき、日常や強みから完全無料で始められる0円起業レシピを提案するAIコンサルタント",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
